@@ -1,14 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>Peter Crisp on Peter Crisp</title>
     <link>https://PeterCrisp.github.io/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content in Peter Crisp on Peter Crisp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tissue Culture</title>
+      <link>https://PeterCrisp.github.io/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://PeterCrisp.github.io/project/deep-learning/</guid>
+      <description>&lt;p&gt;DNA methylation can contribute to the maintenance of genome integrity and regulation of gene expression. In most situations, DNA methylation patterns are inherited quite stably.  However, changes in DNA methylation can occur at some loci as a result of tissue culture resulting in somaclonal variation.  To investigate heritable epigenetic changes as a consequence of tissue culture, a sequence-capture bisulfite sequencing approach was implemented to monitor context-specific DNA methylation patterns in ~15Mb of the maize genome for a population of plants that had been regenerated from tissue culture.  Plants that have been regenerated from tissue culture exhibit gains and losses of DNA methylation at a subset of genomic regions.  There was evidence for a high rate of homozygous changes to DNA methylation levels that occur consistently in multiple independent tissue culture lines suggesting that some loci are either targeted or hotspots for epigenetic variation.  The consistent changes inherited following tissue culture include both gains and losses of DNA methylation and can affect CG, CHG or both contexts within a region. Only a subset of the tissue culture changes observed in callus plants are observed in the primary regnerants but the majority of DNA methylation changes present in primary regenerants are passed onto offspring.  This study provides insights into the susceptibility of some loci and potential mechanisms that could contribute to altered DNA methylation and epigenetic state that occur during tissue culture in plant species.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;small&gt;&lt;a id=&#34;academic-release&#34; href=&#34;http://www.genetics.org/content/209/4/983&#34;&gt;Genetics Paper&lt;/a&gt;&lt;/small&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;small&gt;&lt;a id=&#34;academic-release&#34; href=&#34;http://genestogenomes.org/navigating-the-maize-of-heritable-epigenetic-change/?category=science-and-publishing&#34;&gt;Genetics Blog Post&lt;/a&gt;&lt;/small&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://PeterCrisp.github.io/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://PeterCrisp.github.io/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>https://PeterCrisp.github.io/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://PeterCrisp.github.io/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>https://PeterCrisp.github.io/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://PeterCrisp.github.io/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

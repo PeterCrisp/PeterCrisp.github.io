@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Peter Crisp</title>
+    <link>https://PeterCrisp.github.io/project/</link>
+    <description>Recent content in Projects on Peter Crisp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://PeterCrisp.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tissue Culture</title>
+      <link>https://PeterCrisp.github.io/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://PeterCrisp.github.io/project/deep-learning/</guid>
+      <description>DNA methylation can contribute to the maintenance of genome integrity and regulation of gene expression. In most situations, DNA methylation patterns are inherited quite stably. However, changes in DNA methylation can occur at some loci as a result of tissue culture resulting in somaclonal variation. To investigate heritable epigenetic changes as a consequence of tissue culture, a sequence-capture bisulfite sequencing approach was implemented to monitor context-specific DNA methylation patterns in ~15Mb of the maize genome for a population of plants that had been regenerated from tissue culture.</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://PeterCrisp.github.io/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://PeterCrisp.github.io/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
